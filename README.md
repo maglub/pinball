@@ -1,8 +1,17 @@
-# pinball
+# Introduction
+
+This is a quick and dirty explanation for myself on how to do a bare bone installation of my favorite pinball tables on a freshly new installation of Windows 10.
+
+Requisites (my setup):
+
+* PC, Intel Core i5-6600K CPU@3.50GHz, 8GB RAM, 128GB SSD Drive
+* LEDWiz controller (https://shop.strato.de/epages/64158583.sf/sec719530a4a3/?ObjectPath=/Shops/64158583/Products/50007)
+* Arcade-mame DIY Kit for 2 players (http://www.aliexpress.com/item/Arcade-mame-DIY-KIT-FOR-2-players-PC-PS-3-2-IN-1-to-arcade-joystck/32595240925.html)
+* 2 Screens, 1 x Philips BDM4065UC (40", 3840 x 2160 Pixel @ 60Hz), 1 x Dell UltraSharp U2713HM (27", 2560 x 1440 Pixel)
 
 # Windows
 
-I am using Windows 10
+* I am using Windows 10
 
 ## Auto login
 
